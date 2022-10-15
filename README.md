@@ -4,8 +4,6 @@ Simple Book Store Resfull API
 
 ## 📦 Routes
 
-### TOAST UI Editor
-
 | Path | Method | Description |
 | --- | --- | --- |
 | /book/ | GET | Get All Data
